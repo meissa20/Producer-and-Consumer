@@ -68,10 +68,6 @@ make clean
 ```
 
 ## Notes
-- This project was developed for the **Operating Systems** course at **Alexandria University**.
 - Ensure that **System V IPC support** is enabled in your Linux system.
 - The buffer size should be the same for all producers and the consumer.
-
-**Author:** [Your Name]  
-**ID:** 6728
 
